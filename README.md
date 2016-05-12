@@ -1,4 +1,4 @@
-# Statistical-Inference-CP
+# Statistical Inference Project on Central Limit Theorem and its Application to a Tooth Growth Dataset
 
 This repo contains R code and R markdown documents for the 'Statistical Inference' course project, 
 as part of the data science specialization from Johns Hopkins through Coursera.
